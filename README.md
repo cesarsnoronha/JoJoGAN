@@ -25,6 +25,12 @@ to all other images.
 ## How to use
 Everything to get started is in the [colab notebook](https://colab.research.google.com/github/mchong6/JoJoGAN/blob/main/stylize.ipynb).
 
+You need to clone the github repository,
+them only download the stylize.ipynb file.
+upload it to your google drive.
+On the beggining of the stylize.ipynb file change the github path to yours
+On your github upload the images you want to process to the folder "test_inputs"
+
 ## Citation
 If you use this code or ideas from our paper, please cite our paper:
 ```
